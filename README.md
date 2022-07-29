@@ -12,4 +12,4 @@
 
 ### Time required to build: 3h 30min
 
-### Demo - [Link](https://gd-project-1.netlify.app/)
+### Demo - [Link](https://gd-project-8.netlify.app/)
